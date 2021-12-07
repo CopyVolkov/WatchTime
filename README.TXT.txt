@@ -1,0 +1,1 @@
+El objetivo de el programa es saber el número de horas y minutos totales de contenido para ver en una serie, anime u otros.
